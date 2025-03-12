@@ -27,10 +27,10 @@ FIN FUNCION
 
 INICIAR:
     LLAMAR ValidarPalindromo
+ ```
 
+##edad
 
-#edad
-```plaintext
 
 FUNCION CalcularEdad:
     IMPRIMIR "Ingrese su fecha de nacimiento:"
