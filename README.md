@@ -29,8 +29,9 @@ INICIAR:
     LLAMAR ValidarPalindromo
  ```
 
-##edad
+## Edad
 
+```plaintext
 
 FUNCION CalcularEdad:
     IMPRIMIR "Ingrese su fecha de nacimiento:"
@@ -64,6 +65,11 @@ FIN FUNCION
 
 INICIAR:
     LLAMAR CalcularEdad
+```
+
+## Contraseña
+
+```plaintext
 
 
 FUNCION GenerarContrasena:
@@ -90,6 +96,8 @@ FIN FUNCION
 
 INICIAR:
     LLAMAR GenerarContrasena
+
+```
 
 FUNCION JuegoAhorcado:
     palabras <- ["python", "programacion", "desarrollador", "computadora", "teclado"]
