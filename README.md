@@ -29,8 +29,8 @@ INICIAR:
     LLAMAR ValidarPalindromo
 
 
-## Edad
-
+#edad
+```plaintext
 
 FUNCION CalcularEdad:
     IMPRIMIR "Ingrese su fecha de nacimiento:"
